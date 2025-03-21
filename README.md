@@ -4,7 +4,7 @@
 
 
 # Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](![Javascript](https://readmebadge.vercel.app/badges/javascript.svg)) ![Python](https://readmebadge.vercel.app/badges/python.svg) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![HTML](https://readmebadge.vercel.app/badges/html.svg)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://readmebadge.vercel.app/badges/javascript.svg) ![Python](https://readmebadge.vercel.app/badges/python.svg) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![HTML](https://readmebadge.vercel.app/badges/html.svg)
 
 #  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Vi0letBlue&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
